@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 92 92" width="100%" height="100%" fill="none">
+  <defs>
+    <linearGradient id="uiux-gradient" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#625DCB"/>
+      <stop offset="16%" stop-color="#8441D6"/>
+      <stop offset="32%" stop-color="#AE24E4"/>
+      <stop offset="48%" stop-color="#E200F6"/>
+      <stop offset="62%" stop-color="#FF00C6"/>
+      <stop offset="76%" stop-color="#FF1D86"/>
+      <stop offset="88%" stop-color="#FF4440"/>
+      <stop offset="100%" stop-color="#FF5600"/>
+    </linearGradient>
+  </defs>
+
+  <g stroke="url(#uiux-gradient)" stroke-width="3.4" stroke-linecap="round" stroke-linejoin="round">
+    <!-- Laptop Screen Outline -->
+    <path d="M 7.5 71.5 V 20 C 7.5 12 13 6.5 21 6.5 H 70 C 78 6.5 83.5 12 83.5 20 V 71.5" />
+
+    <!-- Two Horizontal Wireframe Bars -->
+    <line x1="18" y1="22" x2="73" y2="22" />
+    <line x1="18" y1="30" x2="73" y2="30" />
+
+    <!-- UI/UX Typography -->
+    <!-- First 'U' -->
+    <path d="M 20.5 41.5 V 50.5 C 20.5 53.5 22 55 24.5 55 C 27 55 28.5 53.5 28.5 50.5 V 41.5" />
+    <!-- 'I' -->
+    <line x1="34" y1="41.5" x2="34" y2="55" />
+    <!-- '/' (Slash) -->
+    <line x1="39" y1="56.5" x2="43.5" y2="39.5" />
+    <!-- Second 'U' -->
+    <path d="M 49 41.5 V 50.5 C 49 53.5 50.5 55 53 55 C 55.5 55 57 53.5 57 50.5 V 41.5" />
+    <!-- 'X' -->
+    <line x1="62" y1="41.5" x2="70" y2="55" />
+    <line x1="70" y1="41.5" x2="62" y2="55" />
+
+    <!-- Laptop Base with Notch -->
+    <path d="M 2 71.5 H 37.5 V 76.5 H 53.5 V 71.5 H 89" />
+    <!-- Laptop Base Bottom Contour -->
+    <path d="M 2 71.5 C 2 81 7 85.5 15 85.5 H 76 C 84 85.5 89 81 89 71.5" />
+  </g>
+</svg>
