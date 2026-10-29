@@ -1,4 +1,4 @@
-# 🏴‍☠️ Portofolio Interaktif — Mhmd Aminuddin
+#  Portofolio Interaktif — Mhmd Aminuddin
 
 Portofolio web modern, interaktif, dan responsif milik **Mhmd Aminuddin** (Mahasiswa S1 Teknik Informatika ITN Malang). Proyek ini dibangun dengan memadukan estetika **Neo-Brutalism**, elemen petualangan tematik **One Piece**, serta kartu identitas 3D interaktif (**Interactive 3D Lanyard**) menggunakan Three.js dan React Three Fiber.
 
